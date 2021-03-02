@@ -1,3 +1,11 @@
+# **Getting Started with this Repo**
+``` bash
+git clone https://github.com/Rupert-com/react-typecript-plain-template.git
+cd react-typecript-plain-template
+npm install
+npm start
+```
+________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
